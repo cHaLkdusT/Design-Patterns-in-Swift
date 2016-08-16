@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbstractFactory/Suspension.swift"
+            timestampString = "488646752.77863"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "OffRoadSuspension"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbstractFactory.OffRoadSuspension.suspensionType.getter : __C.SuspensionOption"
+                  moduleName = "AbstractFactory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jlundang/Documents/Xcode%207.3.1/Pro%20Design%20Patterns%20in%20Swift/Chapter%2010/AbstractFactory/AbstractFactory/Suspension.swift"
+                  timestampString = "488646784.220695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbstractFactory.OffRoadSuspension.init () -&gt; AbstractFactory.OffRoadSuspension"
+                  moduleName = "AbstractFactory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jlundang/Documents/Xcode%207.3.1/Pro%20Design%20Patterns%20in%20Swift/Chapter%2010/AbstractFactory/AbstractFactory/Suspension.swift"
+                  timestampString = "488646784.222015"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
